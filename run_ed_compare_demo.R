@@ -140,7 +140,7 @@ settings_who_demo <- list(list(method = "median", n_years = 5),
 
 # Will save RDS, PDF of time series, for each result
 # Will save csv with statistics for all (detection_comparisons.csv)
-# Will save an RDS with metadata (event_Detection_run_metadata.RDS)
+# Will save an RDS with metadata (event_detection_run_metadata.RDS)
 
 set.seed(42) #for reproducibility of random alarms
 
