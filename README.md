@@ -1,5 +1,6 @@
 
 Project contains a code accompaniment to the article in BMC Public Health: "Comparing Malaria Early Detection Methods in a Declining Transmission Setting in Northwestern Ethiopia" by Nekorchuk et al. (2021). 
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10850-5
 
 The project contains functions to perform the following two analyses which were presented in the paper:
 
